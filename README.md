@@ -1,16 +1,19 @@
-### Hi there 👋
+### Iam Harikaran 👋
 
-<!--
-**HarikaranKananathan/HarikaranKananathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/rsanjeeban/rsanjeeban/master/.github/workflows/Github%20PSD.jpg" alt="banner that says Sanjeevan Rajakulasingam - software engineer, full stack alongside a cartoon illustration of Sanjeevan">
 
-Here are some ideas to get you started:
+Passionate Software Engineer ✨ with a demonstrated history of working in the information technology and services industry. Skilled in Vue.js, React.js, React Native, Flutter, JavaFX, MongoDB, Laravel, CodeIgniter, CI/CD and Web Services API. Knowledge of Agile methodology. Strong engineering professional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Known Languages : PHP, Node.js
+Known Platforms : Linux | iOS | Windows
+
+- 🔭 I’m currently working on SpeedCodeLabs! :wink: 
+- 🌱 I’m currently learning everything
+- 💬 Ask me about anything related to Javascript/Vue.Js/.Net/Laravel
+- 📫 How to reach me: [@Harikaran](https://www.linkedin.com/in/harikaran-kananathan-48006a1a0/)
+
+
+<!-- 📕 Latest Blog Posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
