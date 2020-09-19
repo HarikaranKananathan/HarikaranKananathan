@@ -1,7 +1,5 @@
 ### Iam Harikaran 👋
 
-<img src="https://raw.githubusercontent.com/rsanjeeban/rsanjeeban/master/.github/workflows/Github%20PSD.jpg" alt="banner that says Harikaran Kananathan - software engineer, full stack alongside a cartoon illustration of Sanjeevan">
-
 Passionate Software Engineer ✨ with a demonstrated history of working in the information technology and services industry. Skilled in Vue.js, React.js, React Native, Flutter, JavaFX, MongoDB, Laravel, CodeIgniter, CI/CD and Web Services API. Knowledge of Agile methodology. Strong engineering professional.
 
 Known Languages : PHP, Node.js
