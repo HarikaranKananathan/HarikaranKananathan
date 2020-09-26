@@ -11,6 +11,11 @@ Known Platforms : Linux | iOS | Windows
 - 📫 How to reach me: [@Harikaran](https://www.linkedin.com/in/harikaran-kananathan-48006a1a0/)
 
 
+### Connect with me:
+
+[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 <!-- 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
