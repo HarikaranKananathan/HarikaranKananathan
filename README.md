@@ -13,7 +13,7 @@ Known Platforms : Linux | iOS | Windows
 
 ### Connect with me:
 
-[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HarikaranKananathan" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <!-- 📕 Latest Blog Posts -->
