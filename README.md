@@ -9,6 +9,16 @@ Known Platforms : Linux | iOS | Windows
 - 🌱 I’m currently learning everything
 - 💬 Ask me about anything related to Laravel/Javascript/Node.Js/React/Vue.Js/React Native
 - 📫 How to reach me: [@Harikaran](https://www.linkedin.com/in/harikaran-kananathan-48006a1a0/)
+- 
+</br>
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRANAVAN12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAVAN12&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 
 
