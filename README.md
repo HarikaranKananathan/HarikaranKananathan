@@ -7,7 +7,7 @@
 
 Passionate Software Engineer ✨ with a demonstrated history of working in the information technology and services industry. Skilled React.js, Angular, React Native, Mysql, MsSql, Stored Procedure, Node js, .Net Core, Laravel, CI/CD and Web Services API. Knowledge of Agile methodology. Strong engineering professional.
 
-Known Languages : PHP, Node.js
+Known Languages : .Net Core, Node.js
 Known Platforms : Linux | iOS | Windows
 
 - 🔭 I’m currently working on Lb Finance! :wink: 
