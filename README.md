@@ -5,14 +5,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kananathanharikaran/)
 
 
-Passionate Software Engineer ✨ with a demonstrated history of working in the information technology and services industry. Skilled in Vue.js, React.js, React Native, Flutter, JavaFX, MongoDB, Mysql, Node js, Laravel, CodeIgniter, CI/CD and Web Services API. Knowledge of Agile methodology. Strong engineering professional.
+Passionate Software Engineer ✨ with a demonstrated history of working in the information technology and services industry. Skilled React.js, Angular, React Native, Mysql, MsSql, Stored Procedure, Node js, .Net Core, Laravel, CI/CD and Web Services API. Knowledge of Agile methodology. Strong engineering professional.
 
 Known Languages : PHP, Node.js
 Known Platforms : Linux | iOS | Windows
 
-- 🔭 I’m currently working on SpeedCodeLabs! :wink: 
+- 🔭 I’m currently working on Lb Finance! :wink: 
 - 🌱 I’m currently learning everything
-- 💬 Ask me about anything related to Laravel/Javascript/Node.Js/React/Vue.Js/React Native
+- 💬 Ask me about anything related to Sql/Javascript/Node.Js/React/Sql Stored Procedure
 - 📫 How to reach me: [@Harikaran](https://www.linkedin.com/in/harikaran-kananathan-48006a1a0/)
 - 
 </br>
