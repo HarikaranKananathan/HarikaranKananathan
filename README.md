@@ -14,7 +14,6 @@ Known Platforms : Linux | iOS | Windows
 - 🌱 I’m currently learning everything
 - 💬 Ask me about anything related to Sql/Javascript/Node.Js/React/Sql Stored Procedure
 - 📫 How to reach me: [@Harikaran](https://www.linkedin.com/in/harikaran-kananathan-48006a1a0/)
-- 
 </br>
 
 
